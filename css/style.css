@@ -18,27 +18,32 @@ div {
           justify-content: center;
 }
 
+.wrapper {
+  border: 3px solid red;
+}
+
 h1 {
   font-size: 2em;
 }
 
 .navigation-menu-ul {
   list-style-type: none;
-  margin-left: 0;
-  color: red;
-}
-
-.wrapper {
-  border: 3px solid red;
 }
 
 .navigation-menu-ul-li {
   text-decoration: none;
 }
 
+.navigation-menu-ul-li a {
+  color: red;
+}
+
 .navigation-menu-ul-li__home {
-  position: fixed;
   top: 10px;
   text-align: center;
+}
+
+.navigation-menu-ul-li__about {
+  transform: rotate(90deg);
 }
 /*# sourceMappingURL=style.css.map */

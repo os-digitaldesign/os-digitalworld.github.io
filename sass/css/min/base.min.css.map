@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAEA,AAAA,CAAC,AAAC,CACA,UAAU,CAAE,UAAU,CACvB,AAED,AAAA,IAAI,AAAC,CACH,WAAW,CAAE,yGAAyG,CACtH,SAAS,CAAE,IAAI,CAChB,AAED,AAAA,GAAG,AAAC,CACF,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CACxB,AAED,AAAA,QAAQ,AAAA,CACN,MAAM,CAAE,aAAa,CACtB",
-    "sources": [
-        "../../partials/base.scss"
-    ],
-    "names": [],
-    "file": "base.min.css"
-}
